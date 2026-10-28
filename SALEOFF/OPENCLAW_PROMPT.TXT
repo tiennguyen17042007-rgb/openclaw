@@ -1,0 +1,10 @@
+Hãy kiểm tra dự án SaleOff trong thư mục SALEOFF.
+
+Đây là ứng dụng Python quản lý sản phẩm giảm giá, gồm:
+- Thêm sản phẩm.
+- Xem danh sách sản phẩm.
+- Tìm kiếm sản phẩm.
+
+Hãy kiểm tra mã nguồn, sửa lỗi nếu có và hướng dẫn cách chạy thử ứng dụng.
+
+Không sửa các phần khác của OpenClaw.
